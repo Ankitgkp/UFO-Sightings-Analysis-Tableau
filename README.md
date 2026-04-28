@@ -1,5 +1,7 @@
 # UFO Sightings Analysis
 
+![State surveillance](public/State%20surveillance.png)
+
 An exploratory data analysis project on UFO sightings. The goal is to practice Python data cleaning and build an interactive Tableau dashboard that highlights trends, geography, and notable patterns.
 
 ## Dataset
@@ -54,8 +56,6 @@ The full workflow is documented in [py_data_cleaning.ipynb](py_data_cleaning.ipy
 ![Years Trends](public/Years%20Trends.png)
 
 ![Top 5 countries](public/Top%205%20countries.png)
-
-![State surveillance](public/State%20surveillance.png)
 
 ![Observations for all years](public/Observations%20for%20all%20years.png)
 
