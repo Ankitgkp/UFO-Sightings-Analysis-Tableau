@@ -62,7 +62,3 @@ The full workflow is documented in [py_data_cleaning.ipynb](py_data_cleaning.ipy
 ## Notes
 - The notebook focuses on cleaning, standardizing dates/locations, and preparing the dataset for Tableau.
 - The dashboard explores temporal trends, geographic hotspots, and country‑level summaries.
-
-## Credits
-Data courtesy of the National UFO Reporting Center (NUFORC) via Kaggle.
-# -UFO-Sightings-Analysis-Tableau
